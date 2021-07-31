@@ -29,5 +29,5 @@ pip3 install .
 
 ## Generating a password via following command
 ```
-python3 run.py
+python3 pass_0.1.py
 ```
