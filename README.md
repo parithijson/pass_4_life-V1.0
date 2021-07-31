@@ -19,7 +19,7 @@ git clone https://github.com/parithipotter/pass_4_life-V1.0.git
 
 ## Clone with SSH
 ```
-git clone git@github.com:ismailtasdelen/Python-Randon-Password-Generator.git
+git clone  git@github.com:parithipotter/pass_4_life-V1.0.git
 ```
 
 ## Run pip3 install to set up this script
