@@ -14,7 +14,7 @@
 
 ## Clone with HTTPS
 ```
-git clone https://github.com/ismailtasdelen/Python-Randon-Password-Generator.git
+git clone https://github.com/parithipotter/pass_4_life-V1.0.git
 ```
 
 ## Clone with SSH
@@ -24,7 +24,7 @@ git clone git@github.com:ismailtasdelen/Python-Randon-Password-Generator.git
 
 ## Run pip3 install to set up this script
 ```
-pip3 install .
+pip3 install colorama.
 ```
 
 ## Generating a password via following command
