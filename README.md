@@ -32,6 +32,6 @@ pip3 install colorama.
 python3 pass_0.1.py
 ```
 ## Screenshot
-[IMG_20210728_163137](https://user-images.githubusercontent.com/55909054/127747186-33a35a0e-7a17-4586-8a83-2160cd89203f.jpg)
+[[https://user-images.githubusercontent.com/55909054/127747186-33a35a0e-7a17-4586-8a83-2160cd89203f.jpg]]
 
 
